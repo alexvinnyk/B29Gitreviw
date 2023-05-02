@@ -1,13 +1,11 @@
 package webapp;
 
 public class Sales {
- //14% off
-//20% off
+  //15% off
+  //25% off
 
 
-  //...
 
-//...
 
-    //more sales item
+
 }
