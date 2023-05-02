@@ -6,6 +6,7 @@ public class Sales {
 //35% off
 //sales agan
 
-
+//added holiday sales 25%
+    //deals
 
 }
